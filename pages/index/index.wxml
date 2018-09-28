@@ -1,0 +1,2 @@
+<!--pages/index/index.wxml-->
+<view class='address' bindtap='getPosition' data-address="{{address}}" data-latitude="">{{address}}</view>
